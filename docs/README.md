@@ -1,22 +1,24 @@
-# Code7 Omni
-Portal de negócios e atendimento customizável e flexível para empresas onde é possível, de forma simples e objetiva: 
-* configurar URA
-* realizar atendimento multicanal
-* configurar agentes
-* configurar serviços e produtos
-* distribuir atendimento de serviços para grupos de agentes específicos
-* cadastro de clientes
-* manter histórico de atendimento consolidado multicanal
-* prestar continuidade ao atendimento do cliente sempre o mesmo operador/usuário
-* gerar relatórios gerenciais
-* administrar quantos e quais tipos de canais serão atendidos por operador (atendimento simultâneo configurável por operador)
+# Nexxera- Mercantil
+Portal de negócios e atendimento customizável e flexível para empresas onde é possível,
+## Apresentação Usuário Interno Nexxera
+### Home
+### Adm Interno
+### Comercial
+### Financeiro
+### SAS-Chamados
+### Antecipação
+### Documentos
+<h2>Manutenção de Documentos do Fornecedor</h2>
+### Relatórios
+<h2>Contatos Spokes</h2>
+<h2>Relatório Sintético Semanal</h2>
+<h2>Relatórios Gerenciais</h2>
+<h2>Relatórios do Sistema</h2>
+<h2>Vendors não Cadastrados</h2>
+## Apresentação Sacado
+## Apresentação Cedente
+## Apresentação Financeira
 
-Oferecendo excepcional qualidade de chamadas porque não utiliza VoIP, mas canais de telefonia convencional do tipo ISDN. Isso quer dizer qualidade total de voz, com a compatibilização de custos que só os sistemas digitais podem viabilizar. 
-
-![Code7 Omni](/imgs/Apresenta.PNG ':class=sombracaixa' )
-
-## Apresentação Inicial
-O Code7 Omni é apresentado em módulos cuja funções são distintas e configuráveis de acordo com a necessidade da empresa, ao logar, o usuário terá acesso a Tela Inicial ou a Tela de Atendimento - dependendo de suas permissões.
 
 ![Tela Inicial](/imgs/Tela_inicial_new.PNG ':class=sombracaixa' )
 
