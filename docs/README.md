@@ -1,5 +1,6 @@
 # Nexxera- Mercantil
 Portal de negócios e atendimento customizável e flexível para empresas onde é possível,
+
 ![Nexxera Mercantil](/imgs/nexxera_capital.png':class=sombracaixa')
 
 ## Apresentação Usuário Interno Nexxera
@@ -39,16 +40,6 @@ Portal de negócios e atendimento customizável e flexível para empresas onde �
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
-## Serviços
-
-_Tela de Serviços_
-
-![Cadastro servicos](/imgs/Servicos_1.PNG ':class=sombracaixa' )
- o atalho que trará frases prontas de um determinado assunto. Sendo útil na padronização do atendimento e também para otimizar o tempo do usuário/atendente.
-
-_Tela de Shortcuts_
-
-## Pesquisa de Satisfação
 
 
 <h2>NPS</h2>
