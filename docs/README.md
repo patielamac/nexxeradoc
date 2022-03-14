@@ -1,5 +1,7 @@
 # Nexxera- Mercantil
 Portal de negócios e atendimento customizável e flexível para empresas onde é possível,
+![Nexxera Mercantil](/imgs/nexxera_capital.png':class=sombracaixa')
+
 ## Apresentação Usuário Interno Nexxera
 ### Home
 ### Adm Interno
