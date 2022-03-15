@@ -3,6 +3,11 @@ Conectamos toda a cadeia de valor (bancos, adquirentes, clientes e fornecedores)
 
 Muito mais transparência para as empresas se preocuparem com o que realmente importa: a gestão e o crescimento dos seus negócios.
 
+# Portal do Fornecedor
+
+Ambiente QAI - https://app-qai.nexxera.com/mercantil/index.php
+
+Testes e Homologações com clientes são realizados neste ambiente.
 
 ![Nexxera Mercantil](/imgs/nexxera_capital.png':class=sombracaixa')
 
@@ -59,7 +64,20 @@ O módulo de Antecipação de Compromissos permite que empresas compradoras/deve
 ## Apresentação Financeira
 
 
-![Tela Inicial](/imgs/Tela_inicial_new.PNG ':class=sombracaixa' )
+# Novo Portal 
+
+
+Em desenvolvimento link de acesso:
+https://nix-sso-int.nexxera.com/auth/realms/NexxeraCreditoDev/protocol/openid-connect/auth?client_id=nexxera-credito&redirect_uri=https%3A%2F%2Fcredito-web-dev.cloudint.nexxera.com%2Fhome&state=7706e545-548d-4178-bed5-d6b191dd975b&response_mode=fragment&response_type=code&scope=openid&nonce=4235816e-eced-4b60-8436-507ae9c7ac97
+
+
+
+
+
+![Novo Portal](/imgs/novo_portal01.png ':class=sombracaixa' )
+
+
+
 
 
 
@@ -70,7 +88,7 @@ O módulo de Antecipação de Compromissos permite que empresas compradoras/deve
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
 
-![Duplo Fator](/imgs/duplo_fator_2_2020-11-23_14h38_16.gif ':class=sombracaixa' )
+![Duplo Fator](/imgs/nome.gif ':class=sombracaixa' )
 
 
 
