@@ -4,6 +4,22 @@ Portal de negócios e atendimento customizável e flexível para empresas onde �
 ![Nexxera Mercantil](/imgs/nexxera_capital.png':class=sombracaixa')
 
 ## Apresentação Usuário Interno Nexxera
+### Infraestrutura e Segurança da Informação
+
+<h2>Data Centers</h2>
+
+O Grupo Nexxera hospeda suas soluções financeiras em 2 fornecedores de Data Center no Brasil, os
+quais possuem certificações reconhecidas mundialmente, incluindo ISAE 3402 e ISO 27001, e mantém
+rigorosos controles físicos e lógicos para atender aos mais exigentes requisitos de segurança e
+disponibilidade. Dos controles implementados, destacam-se: servidores e serviços redundantes,
+sistemas de vigilância com alarmes e câmeras, sistemas de controle de temperatura e umidade, sistemas
+de detecção de fumaça e supressão de incêndio.
+
+Atualmente os serviços e servidores estão hospedados nos Data Centers Equinix SP2 e Scala Tamboré,
+ambos localizados em São Paulo, os Data Centers citados são contratados em regime de Co-location,
+sendo toda a operação realizada por equipe interna. Com isso, garantimos que os dados dos clientes são
+mantidos em Território Brasileiro, seguindo a legislação local.
+
 ### Home
 ### Adm Interno
 ### Comercial
