@@ -39,6 +39,7 @@ mantidos em Território Brasileiro, seguindo a legislação local.
 
 
 
+
 ### Adm Interno
 ### Comercial
 O módulo comercial é possível disponibilizar os pedidos de compra e as notas fiscais emitidas pelos fornecedores, é possível também o envio de alterações e cancelamentos dos documentos enviados.
