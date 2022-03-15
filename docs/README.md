@@ -29,7 +29,7 @@ mantidos em Território Brasileiro, seguindo a legislação local.
 
 ### Home
 
-![Tela Inicial](/imgs/home_visao_nexx.gif ':class=sombracaixa' )
+![Tela Inicial](/imgs/home_01.png':class=sombracaixa' )
 
 
 
