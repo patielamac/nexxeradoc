@@ -21,26 +21,49 @@ Somos um grupo com 29 anos de experiência em conectar pessoas, ideias, seguran�
 
 <h3>Data Centers</h3>
 
-O Grupo Nexxera hospeda suas soluções financeiras em 2 fornecedores de Data Center no Brasil, os
-quais possuem certificações reconhecidas mundialmente, incluindo ISAE 3402 e ISO 27001, e mantém
-rigorosos controles físicos e lógicos para atender aos mais exigentes requisitos de segurança e
-disponibilidade. Dos controles implementados, destacam-se: servidores e serviços redundantes,
-sistemas de vigilância com alarmes e câmeras, sistemas de controle de temperatura e umidade, sistemas
+O Grupo Nexxera hospeda suas soluções financeiras em 2 fornecedores de Data Center no Brasil, os quais possuem certificações reconhecidas mundialmente, incluindo ISAE 3402 e ISO 27001, e mantém rigorosos controles físicos e lógicos para atender aos mais exigentes requisitos de segurança e disponibilidade. Dos controles implementados, destacam-se: servidores e serviços redundantes,sistemas de vigilância com alarmes e câmeras, sistemas de controle de temperatura e umidade,sistemas
 de detecção de fumaça e supressão de incêndio.
-
-Atualmente os serviços e servidores estão hospedados nos Data Centers Equinix SP2 e Scala Tamboré,
-ambos localizados em São Paulo, os Data Centers citados são contratados em regime de Co-location,
-sendo toda a operação realizada por equipe interna. Com isso, garantimos que os dados dos clientes são
-mantidos em Território Brasileiro, seguindo a legislação local.
+Atualmente os serviços e servidores estão hospedados nos Data Centers Equinix SP2 e Scala Tamboré,ambos localizados em São Paulo, os Data Centers citados são contratados em regime de Co-location, sendo toda a operação realizada por equipe interna. Com isso, garantimos que os dados dos clientes são mantidos em Território Brasileiro, seguindo a legislação local.
 
 ### Home
+
+Tela inicial exclusiva para usuários da Nexxera - desenvolvedores, equipe de implantação e testes.
 
 ![Tela Inicial](/imgs/home_01.png ':class=sombracaixa' )
 
 
 
-
 ### Adm Interno
+
+Traz várias funcionalidades de cadastros, edições, configurações, consultas e pesquisas de documentos, empresas, usuários e históricos.
+
+![Menu](/imgs/menu_adminterno.png ':class=sombracaixa' )
+
+- Auditoria - gera consulta e um relatório em PDF de todas as alterações e/ou atualizações realizadas nas tabelas do sistema podendo ser filtrado pelos campos:
+    - Data Inicial,
+    - Data Final,
+    - Tabela,
+    - Campo
+- Comunidades - (O que é uma comunidade para o Sistema? "Um grupo de empresas associadas que geram negociações entre si"?).
+Consulta Empresas na Comunidade - gera consulta, podendo ser exportada em XLS, dos dados da comunidade, podendo ser filtrada por Nome da Comunidade, Grupo Empresa, Código Grupo Empresa. Trazendo os campos:
+    - Código Comunidade
+    - Logo
+    - Nome da Comunidade
+    - Grupo Empresa
+    - Qtd. Empresas Associadas
+    - Empresas
+    - Documentos
+- Configurações de Mensagens
+- Configurações do Sistema
+- Configurador de Documentos Invoice
+- Configurador de Documentos Ordchg
+- Configurador de Documentos Orders
+- Configurador de Documentos Remadv
+- Consulta Empresas
+- Consulta
+
+
+
 ### Comercial
 O módulo comercial é possível disponibilizar os pedidos de compra e as notas fiscais emitidas pelos fornecedores, é possível também o envio de alterações e cancelamentos dos documentos enviados.
 O envio dessas informações pode ter origens distintas, bem como, formatos de arquivos variados (inclusive há uma inclusão manual -digitação de compromisso-). Compromissos gerados em outros formatos poderão recorrer ao serviço de tradução de domínio da área de TI (Engenharia e Tradução) da Nexxera. 
