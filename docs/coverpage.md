@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="coverpage.css">
 </head>
 
-![NEXXERA](/imgs/Nexxera - 2.png "Nexxera")
+![NEXXERA](/imgs/Nexxera02.png "Nexxera")
 
 [Documentação](README.md ':class=btn')
 
