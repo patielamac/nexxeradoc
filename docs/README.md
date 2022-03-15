@@ -6,6 +6,7 @@ Muito mais transparência para as empresas se preocuparem com o que realmente im
 
 ![Nexxera Mercantil](/imgs/nexxera_capital.png':class=sombracaixa')
 
+
 ## Apresentação Usuário Interno Nexxera
 Atuamos nas principais esferas do mercado financeiro, sempre pensando na sustentabilidade do negócio baseado na cadeia produtiva e seus processos. Reconhecidos como a principal plataforma de transações financeiras e mercantis do país, contamos com alta tecnologia para fornecer soluções que interligam empresas, fornecedores e clientes.
 
