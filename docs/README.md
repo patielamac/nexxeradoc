@@ -35,7 +35,6 @@ Tela inicial exclusiva para usuários da Nexxera - desenvolvedores, equipe de im
 
 
 ### Adm Interno
-
 Traz várias funcionalidades de cadastros, edições, configurações, consultas e pesquisas de documentos, empresas, usuários e históricos.
 
 ![Menu](/imgs/menu_adminterno.png ':class=sombracaixa' )
@@ -55,16 +54,22 @@ Consulta Empresas na Comunidade - gera consulta, podendo ser exportada em XLS, d
     - Empresas
     - Documentos
 - Configurações de Mensagens
+ 
 - Configurações do Sistema
+
 - Configurador de Documentos Invoice
+- 
 - Configurador de Documentos Ordchg
+
 - Configurador de Documentos Orders
+- 
 - Configurador de Documentos Remadv
+- 
 - Consulta Empresas
+- 
 - Consulta
-
-
-
+- 
+- 
 ### Comercial
 O módulo comercial é possível disponibilizar os pedidos de compra e as notas fiscais emitidas pelos fornecedores, é possível também o envio de alterações e cancelamentos dos documentos enviados.
 O envio dessas informações pode ter origens distintas, bem como, formatos de arquivos variados (inclusive há uma inclusão manual -digitação de compromisso-). Compromissos gerados em outros formatos poderão recorrer ao serviço de tradução de domínio da área de TI (Engenharia e Tradução) da Nexxera. 
