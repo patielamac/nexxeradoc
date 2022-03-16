@@ -69,7 +69,18 @@ Consulta Empresas na Comunidade - gera consulta, podendo ser exportada em XLS, d
 - 
 - Consulta
 - 
-- 
+- Empresas - Realiza consultas e possibilita cadastros ou atualização de âncoras, financeira e spoke, onde:
+    - Âncora - é o usuário comprador ou devedor
+    - Financeira - cadastro das Instituições Financeiras
+    - Spoke -   *não faço ideia do que seja Fornecedor???
+
+![Menu](/imgs/empresas_01.png ':class=sombracaixa' )
+
+
+
+
+    
+Faz
 ### Comercial
 O módulo comercial é possível disponibilizar os pedidos de compra e as notas fiscais emitidas pelos fornecedores, é possível também o envio de alterações e cancelamentos dos documentos enviados.
 O envio dessas informações pode ter origens distintas, bem como, formatos de arquivos variados (inclusive há uma inclusão manual -digitação de compromisso-). Compromissos gerados em outros formatos poderão recorrer ao serviço de tradução de domínio da área de TI (Engenharia e Tradução) da Nexxera. 
