@@ -2,8 +2,8 @@
 Conectamos toda a cadeia de valor (bancos, adquirentes, clientes e fornecedores). Nosso ecossistema, baseado no modelo SaaS, integra tecnologia, inovação e sustentabilidade em uma única plataforma.
 
 Muito mais transparência para as empresas se preocuparem com o que realmente importa: a gestão e o crescimento dos seus negócios.
-## Glossário
-- Suppy Chain Management - angloba o planejamento e a gestão de todas as atividades envolvidas em compras e suprimentos, conversão do material em produto e todas as atividades de gestão de logística
+# Glossário
+- Suppy Chain Management - engloba o planejamento e a gestão de todas as atividades envolvidas em compras e suprimentos, conversão do material em produto e todas as atividades de gestão de logística
 - Suppy Chain Finance - foca na gestão dos fluxos financeiros na cadeia de suprimentos para fins como: obtenção de recursos, diminuição da necessidade de capital de giro, redução de custos de acesso ao crédito, entre outros
 - Valor de capital
 - Sacado - comprador, empresa que irá receber a mercadoria ou serviço
@@ -19,7 +19,14 @@ Muito mais transparência para as empresas se preocuparem com o que realmente im
 - Acordos comerciais - negociações específicas
 - XML Nota - Nota fiscal de produto - NF-e
 - NF-s - Nota fiscal de serviço
--   
+- Compromisso a pagar fornecedores - agenda de pagamentos para o fornecedor
+- Compromisso a receber clientes - agenda de recebimento do fornecedor
+- Docas - local de descarregamento
+- Vendor -código do vendedor
+- GLN - código da empresa para localização global (GS1)
+- Rebate operação - valor repassado para o sacado em cada operação
+- Carteiras - classificação de fornecedores e taxas
+- Borderô - comprovamente da antecipação - cessão  
 
     
 
