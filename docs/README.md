@@ -5,7 +5,14 @@ Muito mais transparência para as empresas se preocuparem com o que realmente im
 ## Glossário
 - Suppy Chain Management - angloba o planejamento e a gestão de todas as atividades envolvidas em compras e suprimentos, conversão do material em produto e todas as atividades de gestão de logística
 - Suppy Chain Finance - foca na gestão dos fluxos financeiros na cadeia de suprimentos para fins como: obtenção de recursos, diminuição da necessidade de capital de giro, redução de custos de acesso ao crédito, entre outros
-- 
+- Valor de capital
+- Sacado
+- Cedente - 
+- Financeira
+- Âncora
+- Trava Bancária
+- Spoke - nomenclatura antiga do mundo mercantil - Fornecedor - Cedente
+- Hub - Comprador - Sacado
     
 
 # Portal do Fornecedor
