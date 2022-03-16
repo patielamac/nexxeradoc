@@ -6,13 +6,21 @@ Muito mais transparência para as empresas se preocuparem com o que realmente im
 - Suppy Chain Management - angloba o planejamento e a gestão de todas as atividades envolvidas em compras e suprimentos, conversão do material em produto e todas as atividades de gestão de logística
 - Suppy Chain Finance - foca na gestão dos fluxos financeiros na cadeia de suprimentos para fins como: obtenção de recursos, diminuição da necessidade de capital de giro, redução de custos de acesso ao crédito, entre outros
 - Valor de capital
-- Sacado
-- Cedente - 
+- Sacado - comprador, empresa que irá receber a mercadoria ou serviço
+- Modelo Risco Sacado - contém taxas menores, usa como garantia os pagamentos e o limite do sacado que está pré-aprovado no sistema - bancos tem maior interesse por se tratar de um índice de inadimplência menor
+- Cedente - fornecedor, empresa que irá oferecer o serviço ou entregar a mercadoria - Tomador de Crédito
 - Financeira
 - Âncora
 - Trava Bancária
 - Spoke - nomenclatura antiga do mundo mercantil - Fornecedor - Cedente
 - Hub - Comprador - Sacado
+- Orders - pedido de compra
+- Remadv - Aviso de pagamento - compensações
+- Acordos comerciais - negociações específicas
+- XML Nota - Nota fiscal de produto - NF-e
+- NF-s - Nota fiscal de serviço
+-   
+
     
 
 # Portal do Fornecedor
