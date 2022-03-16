@@ -2,9 +2,13 @@
 Conectamos toda a cadeia de valor (bancos, adquirentes, clientes e fornecedores). Nosso ecossistema, baseado no modelo SaaS, integra tecnologia, inovação e sustentabilidade em uma única plataforma.
 
 Muito mais transparência para as empresas se preocuparem com o que realmente importa: a gestão e o crescimento dos seus negócios.
+
 # Glossário
-- Suppy Chain Management - engloba o planejamento e a gestão de todas as atividades envolvidas em compras e suprimentos, conversão do material em produto e todas as atividades de gestão de logística
-- Suppy Chain Finance - foca na gestão dos fluxos financeiros na cadeia de suprimentos para fins como: obtenção de recursos, diminuição da necessidade de capital de giro, redução de custos de acesso ao crédito, entre outros
+
+O entendimento dos termos e nomenclaturas do Supply Chain Management e Finance se faz necessário, pois são termos utilizados constantemente nos processos do produto tecnológico mercantil.
+
+- Supply Chain Management - engloba o planejamento e a gestão de todas as atividades envolvidas em compras e suprimentos, conversão do material em produto e todas as atividades de gestão de logística
+- Supply Chain Finance - foca na gestão dos fluxos financeiros na cadeia de suprimentos para fins como: obtenção de recursos, diminuição da necessidade de capital de giro, redução de custos de acesso ao crédito, entre outros
 - Valor de capital
 - Sacado - comprador, empresa que irá receber a mercadoria ou serviço
 - Modelo Risco Sacado - contém taxas menores, usa como garantia os pagamentos e o limite do sacado que está pré-aprovado no sistema - bancos tem maior interesse por se tratar de um índice de inadimplência menor
