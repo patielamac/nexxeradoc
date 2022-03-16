@@ -7,7 +7,7 @@ Muito mais transparência para as empresas se preocuparem com o que realmente im
 
 O entendimento dos termos e nomenclaturas do Supply Chain Management e Finance se faz necessário, pois são termos utilizados constantemente nos processos do produto tecnológico mercantil.
 
-- Supply Chain Management - engloba o planejamento e a gestão de todas as atividades envolvidas em compras e suprimentos, conversão do material em produto e todas as atividades de gestão de logística
+- Supply Chain Management (SCM) - engloba o planejamento e a gestão de todas as atividades envolvidas em compras e suprimentos, conversão do material em produto e todas as atividades de gestão de logística
 - Supply Chain Finance - foca na gestão dos fluxos financeiros na cadeia de suprimentos para fins como: obtenção de recursos, diminuição da necessidade de capital de giro, redução de custos de acesso ao crédito, entre outros
 - Valor de capital
 - Sacado - comprador, empresa que irá receber a mercadoria ou serviço
@@ -30,7 +30,13 @@ O entendimento dos termos e nomenclaturas do Supply Chain Management e Finance s
 - GLN - código da empresa para localização global (GS1)
 - Rebate operação - valor repassado para o sacado em cada operação
 - Carteiras - classificação de fornecedores e taxas
-- Borderô - comprovamente da antecipação - cessão  
+- Borderô - comprovamente da antecipação - cessão
+- Valor Capital
+- Trava Bancária
+- Troca de Domicílio
+- Classificação de Risco
+- Contrato não performado
+- Contrato performado 
 
     
 
