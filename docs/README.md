@@ -48,8 +48,7 @@ Testes e Homologações com clientes são realizados neste ambiente.
 
 ![Nexxera Mercantil](/imgs/nexxera_capital.png':class=sombracaixa')
 
-
-# Apresentação Usuário Interno Nexxera
+## Apresentação Usuário Interno Nexxera
 
 Atuamos nas principais esferas do mercado financeiro, sempre pensando na sustentabilidade do negócio baseado na cadeia produtiva e seus processos. Reconhecidos como a principal plataforma de transações financeiras e mercantis do país, contamos com alta tecnologia para fornecer soluções que interligam empresas, fornecedores e clientes.
 
@@ -109,19 +108,14 @@ Consulta Empresas na Comunidade - gera consulta, podendo ser exportada em XLS, d
 - Empresas - Realiza consultas e possibilita cadastros ou atualização de âncoras, financeira e spoke, onde:
     - Âncora - é o usuário comprador ou devedor
     - Financeira - cadastro das Instituições Financeiras
-    - Spoke -   *não faço ideia do que seja Fornecedor???
+    - Spoke - Fornecedor
 
 ![Menu](/imgs/empresas_01.png ':class=sombracaixa' )
 
 
-
-
-    
-Faz
 ### Comercial
 O módulo comercial é possível disponibilizar os pedidos de compra e as notas fiscais emitidas pelos fornecedores, é possível também o envio de alterações e cancelamentos dos documentos enviados.
 O envio dessas informações pode ter origens distintas, bem como, formatos de arquivos variados (inclusive há uma inclusão manual -digitação de compromisso-). Compromissos gerados em outros formatos poderão recorrer ao serviço de tradução de domínio da área de TI (Engenharia e Tradução) da Nexxera. 
-
 
 ### Financeiro
 O módulo financeiro permite a divulgação de compromissos a pagar e receber com os detalhes de cada compromisso, é possível também através de arquivos cancelar e ou alterar as publicações, neste mesmo módulo é possível efetuar o encontro de contas através do fornecedor entre os compromissos a pagar e receber.
@@ -129,12 +123,11 @@ O módulo financeiro permite a divulgação de compromissos a pagar e receber co
 ### SAS-Chamados
 
 ### Antecipação
-
 O módulo de Antecipação de Compromissos permite que empresas compradoras/devedoras possam remeter compromissos (NF, título, etc) e indicar a possibilidade deste ser antecipado pelo fornecedor/credor.
 
 ### Documentos
 
-<h2>Manutenção de Documentos do Fornecedor</h2>
+<h4>Manutenção de Documentos do Fornecedor</h4>
 
 ### Relatórios
 
