@@ -167,6 +167,7 @@ https://nix-sso-int.nexxera.com/auth/realms/NexxeraCreditoDev/protocol/openid-co
 
 
 
+
 ![Novo Portal](/imgs/novo_portal01.png ':class=sombracaixa' )
 
 
