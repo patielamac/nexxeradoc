@@ -130,27 +130,32 @@ O módulo financeiro permite a divulgação de compromissos a pagar e receber co
 ### Antecipação
 O módulo de Antecipação de Compromissos permite que empresas compradoras/devedoras possam remeter compromissos (NF, título, etc) e indicar a possibilidade deste ser antecipado pelo fornecedor/credor.
 ### Documentos
+
 <h2>Manutenção de Documentos do Fornecedor</h2>
+
 ### Relatórios
+
 <h2>Contatos Spokes</h2>
 <h2>Relatório Sintético Semanal</h2>
 <h2>Relatórios Gerenciais</h2>
 <h2>Relatórios do Sistema</h2>
 <h2>Vendors não Cadastrados</h2>
-## Apresentação Sacado
-## Apresentação Cedente
-## Apresentação Financeira
+
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
+
 # Portal do Sacado
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
+
 # Portal do Cedente
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
+
 # Portal Financeira
 
 <hr color="#836FFF" size = 8 width = 70% align = right noshade>
+
 # Novo Portal 
 
 
@@ -174,8 +179,6 @@ https://nix-sso-int.nexxera.com/auth/realms/NexxeraCreditoDev/protocol/openid-co
 
 <hr color="#836FFF" size = 3 width = 70% align = right noshade>
 
-
-![Duplo Fator](/imgs/nome.gif ':class=sombracaixa' )
 
 
 
