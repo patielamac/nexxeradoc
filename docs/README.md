@@ -57,7 +57,7 @@ Somos um grupo com 29 anos de experiência em conectar pessoas, ideias, seguran�
 
 ### Infraestrutura e Segurança da Informação
 
-<h3>Data Centers</h3>
+<h4>Data Centers</h4>
 
 O Grupo Nexxera hospeda suas soluções financeiras em 2 fornecedores de Data Center no Brasil, os quais possuem certificações reconhecidas mundialmente, incluindo ISAE 3402 e ISO 27001, e mantém rigorosos controles físicos e lógicos para atender aos mais exigentes requisitos de segurança e disponibilidade. Dos controles implementados, destacam-se: servidores e serviços redundantes,sistemas de vigilância com alarmes e câmeras, sistemas de controle de temperatura e umidade,sistemas
 de detecção de fumaça e supressão de incêndio.
@@ -127,34 +127,42 @@ O envio dessas informações pode ter origens distintas, bem como, formatos de a
 O módulo financeiro permite a divulgação de compromissos a pagar e receber com os detalhes de cada compromisso, é possível também através de arquivos cancelar e ou alterar as publicações, neste mesmo módulo é possível efetuar o encontro de contas através do fornecedor entre os compromissos a pagar e receber.
 
 ### SAS-Chamados
+
 ### Antecipação
+
 O módulo de Antecipação de Compromissos permite que empresas compradoras/devedoras possam remeter compromissos (NF, título, etc) e indicar a possibilidade deste ser antecipado pelo fornecedor/credor.
+
 ### Documentos
 
 <h2>Manutenção de Documentos do Fornecedor</h2>
 
 ### Relatórios
 
-<h2>Contatos Spokes</h2>
-<h2>Relatório Sintético Semanal</h2>
-<h2>Relatórios Gerenciais</h2>
-<h2>Relatórios do Sistema</h2>
-<h2>Vendors não Cadastrados</h2>
+<h4>Contatos Spokes</h4>
+
+<h4>Relatório Sintético Semanal</h4>
+
+<h4>Relatórios Gerenciais</h4>
+
+<h4>Relatórios do Sistema</h4>
+
+<h4>Vendors não Cadastrados</h4>
 
 
-<hr color="#836FFF" size = 8 width = 70% align = right noshade>
+
+<hr color="#836FFF" size = 10 width = 70% align = right noshade>
 
 # Portal do Sacado
 
-<hr color="#836FFF" size = 8 width = 70% align = right noshade>
+<hr color="#836FFF" size = 10 width = 70% align = right noshade>
 
 # Portal do Cedente
 
-<hr color="#836FFF" size = 8 width = 70% align = right noshade>
+<hr color="#836FFF" size = 10 width = 70% align = right noshade>
 
 # Portal Financeira
 
-<hr color="#836FFF" size = 8 width = 70% align = right noshade>
+<hr color="#836FFF" size = 10 width = 70% align = right noshade>
 
 # Novo Portal 
 
@@ -167,31 +175,6 @@ https://nix-sso-int.nexxera.com/auth/realms/NexxeraCreditoDev/protocol/openid-co
 
 
 ![Novo Portal](/imgs/novo_portal01.png ':class=sombracaixa' )
-
-
-
-
-
-
-<hr color="#836FFF" size = 8 width = 70% align = right noshade>
-
-
-
-<hr color="#836FFF" size = 3 width = 70% align = right noshade>
-
-
-
-
-<hr color="#836FFF" size = 3 width = 70% align = right noshade>
-
-
-
-<h2>NPS</h2>
-
-
-
-
-
 
 
 
