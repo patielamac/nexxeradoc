@@ -36,7 +36,7 @@ O entendimento dos termos e nomenclaturas do Supply Chain Management e Finance s
 - Troca de Domicílio
 - Classificação de Risco
 - Contrato não performado
-- Contrato performado 
+- Contrato performado
 
     
 
@@ -49,7 +49,7 @@ Testes e Homologações com clientes são realizados neste ambiente.
 ![Nexxera Mercantil](/imgs/nexxera_capital.png':class=sombracaixa')
 
 
-## Apresentação Usuário Interno Nexxera
+# Apresentação Usuário Interno Nexxera
 
 Atuamos nas principais esferas do mercado financeiro, sempre pensando na sustentabilidade do negócio baseado na cadeia produtiva e seus processos. Reconhecidos como a principal plataforma de transações financeiras e mercantis do país, contamos com alta tecnologia para fornecer soluções que interligam empresas, fornecedores e clientes.
 
@@ -141,7 +141,16 @@ O módulo de Antecipação de Compromissos permite que empresas compradoras/deve
 ## Apresentação Cedente
 ## Apresentação Financeira
 
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
+# Portal do Sacado
 
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
+# Portal do Cedente
+
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
+# Portal Financeira
+
+<hr color="#836FFF" size = 8 width = 70% align = right noshade>
 # Novo Portal 
 
 
